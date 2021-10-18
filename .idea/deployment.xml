@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ybzhou@[2001:da8:215:6a01::1:e6d5]:666 password" uploadOnCheckin="a88d4e92-dd1b-46d5-9cc5-06c85462219b" remoteFilesAllowedToDisappearOnAutoupload="false" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="ybzhou@[2001:da8:215:6a01::1:e6d5]:666 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workspace/Network_optimization" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ybzhou@[2001:da8:215:6a01::1:e6d5]:666 password" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

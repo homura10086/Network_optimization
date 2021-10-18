@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://ybzhou@[2001:da8:215:821:6190:f861:fa54:a0ea]:22/home/ybzhou/anaconda3/bin/python" />
+        <remote-mappings server-id="python@sftp://ybzhou@[2001:da8:215:6a01::1:e6d5]:666/home/ybzhou/anaconda3/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/../Network_optimization" remote-root="/home/ybzhou/workspace/Network_optimization" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
